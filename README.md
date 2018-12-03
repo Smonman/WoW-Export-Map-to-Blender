@@ -13,3 +13,11 @@ My work was influenced by the kind [Lornek](https://www.reddit.com/user/lornek "
 
 This is a python script that needs to be executet within Blender. The Blender file needs to be in the same folder as the exported OBJs
 and textures using [WoW Model Exporter](https://marlam.in/obj/)
+
+
+Still to do:
++ alpha textures
++ remove double vertecies
++ add skybox
++ group and center all the objects
++ add doodats to the models
