@@ -21,3 +21,4 @@ Still to do:
 + add skybox
 + group and center all the objects
 + add doodats to the models
++ refactor
