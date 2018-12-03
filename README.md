@@ -22,3 +22,6 @@ Still to do:
 + group and center all the objects
 + add doodats to the models
 + refactor
+
+
+Please note that this is my first time using Python and doing Blender Scripting.
