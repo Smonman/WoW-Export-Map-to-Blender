@@ -7,6 +7,8 @@ My work was influenced by the kind [Lornek](https://www.reddit.com/user/lornek "
 This is a python script that needs to be executed within Blender. The Blender file needs to be in the same folder as the exported OBJs
 and textures using [wow.export](https://www.kruithne.net/wow.export/)
 
+> **Note**: wow.export now has a blender addon to import wow maps into blender
+
 Still to do:
 - alpha textures
 - remove double vertecies
